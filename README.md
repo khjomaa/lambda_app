@@ -18,8 +18,8 @@
 5. Fill the following:
     - Kind: **AWS Credentials**
     - ID: **aws-credentials**
-    - Access Key ID: <Your AWS Access Key>
-    - Secret Access Key: <Your Secret Key>
+    - Access Key ID: \<Your AWS Access Key\>
+    - Secret Access Key: \<Your Secret Key\>
 6. Click **OK**
 
 **Run the pipeline:**
